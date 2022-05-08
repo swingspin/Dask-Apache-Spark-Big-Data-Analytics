@@ -1,4 +1,4 @@
-# Spark-Dask---Big-Data-Analytics
+# Spark & Dask: Big-Data-Analytics
 
 A Compartive analysis of two leading Big Data technologies, Dask and Apache Spark using :
 1. Programming model: Use of Data-frame API to experience the working of Dask in comparison to Apache Spark.
